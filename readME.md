@@ -3,7 +3,7 @@
 
 This is a sliding carousel task given in the week 6&7 of Zuri Training.
 
-# Live URL: 
+# Live URL: https://nifemi2005.github.io/slider.github.io/Task6&7/
 ## FAQ
 
 - What are the requirements for the  Carousel project
