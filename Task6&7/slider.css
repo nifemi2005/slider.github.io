@@ -63,18 +63,12 @@ section{
 .carousel-button:focus{
     outline: 1px solid black;
 }
-.carousel-button.prev{
+.prev{
     left: 1rem;
 }
-.carousel-button.next {
+.next {
     right: 1rem;
 }
-/* button{
-    display: none;
-}
-.slide img:hover button{
-    display: block;
-} */
-.carousel:hover .carousel-button{
+.carousel-button:hover{
     opacity: 1;
 }
