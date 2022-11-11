@@ -69,6 +69,6 @@ section{
 .next {
     right: 1rem;
 }
-.carousel:hover button{
+.carousel:hover .carousel-button{
     opacity: 1;
 }
